@@ -1,5 +1,5 @@
 # Phishing-Simulator
-
+https://github.com/HFHamdan/Phishing-Simulator/blob/main/gophish_logo.png
 A controlled phishing attack simulation built with Gophish to study social engineering techniques, credential harvesting, and SOC detection strategies.
 
 
