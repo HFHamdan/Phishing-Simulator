@@ -23,3 +23,8 @@ A two-step verification phishing email was crafted to create urgency around acco
 upon clicking the link it would lead you to this fake login page :
 
 ![img_alt](https://github.com/HFHamdan/Phishing-Simulator/blob/main/fake_login.png?raw=true)
+
+## Campaign Results
+The campaign successfully tracked the full attack timeline from email delivery, to open, to link click, to credential capture  as recorded in the Gophish dashboard. 
+
+![img_alt](
