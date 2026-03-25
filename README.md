@@ -18,4 +18,4 @@ A controlled phishing attack simulation built using Gophish to study social engi
 
 A two-step verification phishing email was crafted to create urgency around account security, prompting the target to verify their 2SV credentials via a fake login page. This mirrors a common real-world phishing pretext used to bypass user suspicion.
 
-![img_alt()
+![img_alt}(https://github.com/HFHamdan/Phishing-Simulator/blob/main/phishing_email.png?raw=true)
