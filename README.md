@@ -22,4 +22,4 @@ A two-step verification phishing email was crafted to create urgency around acco
 
 upon clicking the link it would lead you to this fake login page :
 
-![img_alt](https://github.com/HFHamdan/Phishing-Simulator/edit/main/README.md)
+![img_alt](https://github.com/HFHamdan/Phishing-Simulator/blob/main/fake_login.png?raw=true)
