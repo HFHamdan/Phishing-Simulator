@@ -1,4 +1,4 @@
-# Phishing-Simulato
+# Phishing-Simulator
 
 
 ![img alt](https://github.com/HFHamdan/Phishing-Simulator/blob/main/gophish_logo.png)
