@@ -5,6 +5,7 @@
 
 
 ## Overview
+
 A controlled phishing attack simulation built using Gophish to study social engineering techniques, credential harvesting, and SOC detection strategies. The simulation was conducted in a local, isolated environment against a dummy account for educational purposes only.
 
 ## Tools & Setup
@@ -12,3 +13,8 @@ A controlled phishing attack simulation built using Gophish to study social engi
 - Gophish (local installation)
 - Gmail dummy target account
 - Landing page template adapted from (https://github.com/trustedsec/social-engineer-toolkit/blob/master/src/html/templates/google/index.template) on GitHub
+
+## Simulation Design
+
+A two-step verification phishing email was crafted to create urgency around account security, prompting the target to verify their 2SV credentials via a fake login page. This mirrors a common real-world phishing pretext used to bypass user suspicion.
+
