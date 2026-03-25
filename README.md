@@ -27,4 +27,4 @@ upon clicking the link it would lead you to this fake login page :
 ## Campaign Results
 The campaign successfully tracked the full attack timeline from email delivery, to open, to link click, to credential capture  as recorded in the Gophish dashboard. 
 
-![img_alt](
+![img_alt](https://github.com/HFHamdan/Phishing-Simulator/blob/main/full_timeline.png?raw=true)
