@@ -4,11 +4,11 @@
 ![img alt](https://github.com/HFHamdan/Phishing-Simulator/blob/main/gophish_logo.png)
 
 
-# Overview
+## Overview
 A controlled phishing attack simulation built using Gophish to study social engineering techniques, credential harvesting, and SOC detection strategies. The simulation was conducted in a local, isolated environment against a dummy account for educational purposes only.
 
-# Tools & Setup
+## Tools & Setup
 
 - Gophish (local installation)
 - Gmail dummy target account
-- Landing page template adapted from [src/html/templates/google/index.template] on GitHub
+- Landing page template adapted from (https://github.com/trustedsec/social-engineer-toolkit/blob/master/src/html/templates/google/index.template) on GitHub
